@@ -1,0 +1,12 @@
+.container{
+    height: 500px;
+    width: 40%;
+    margin: auto;
+    background-color: aquamarine;
+}
+.btn{
+    border-radius: 50px;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
